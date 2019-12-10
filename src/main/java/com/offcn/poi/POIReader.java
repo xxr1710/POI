@@ -27,5 +27,7 @@ public class POIReader {
         }
         return con;
     }
-
+    public void test(){
+        System.out.println(".........");
+    }
 }
